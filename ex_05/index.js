@@ -11,4 +11,4 @@ function reverseString(string){
 
 }
 
-reverseString(words_array[parseInt(Math.random() * 10)])
+reverseString(words_array[parseInt(Math.random() * 10)]) // para pegar uma string aleatória do words array fiz um math.random para pegar algum indice

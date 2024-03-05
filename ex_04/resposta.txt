@@ -1,0 +1,3 @@
+Para descobrir qual interruptor é de cada lâmpada, primeiramente eu desligaria dois interruptores aleatórios e deixaria um ligado apenas e assim iria até a sala para marcar qual lâmpada ficou ligada.
+Assim eu já vou descobrir que a única lâmpada que restou corresponde ao interruptor que eu deixei ligado, anotaria isso e voltaria para sala dos interruptores. Até ai sei uma das lampadas e seus interruptores, daí eu ligaria um dos dois interruptores que eu deixei desligado e voltaria na sala para conferir qual das lâmpadas que ligou.
+Assim eu saberia que o interruptor que eu liguei quando voltei a sala corresponde a essa lâmpada, sobrando uma lâmpada desligada com um interruptor desligado que por eliminação eu conseguiria saber qual interruptor liga cada lâmpada.
